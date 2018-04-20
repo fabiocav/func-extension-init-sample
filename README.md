@@ -1,0 +1,1 @@
+# func-extension-init-sample
